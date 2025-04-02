@@ -20,7 +20,7 @@ export default function ContactPage() {
               alt="profile picture"
               height={200}
               width={200}
-              className="rounded-full shadow-lg border border-purple-700"
+              className="rounded-full shadow-lg border border-violet-500"
             />
           </div>
           <div className="space-y-4 text-lg rounded-lg ">

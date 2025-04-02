@@ -21,7 +21,7 @@ export default function ProjectTile({ title, description, imageUrl, url }) {
           href={url}
           target="_blank"
           rel="noopener noreferrer"
-          className="p-2 bg-black bg-opacity-15 text-white text-sm font-normal rounded-full hover:bg-purple-700 transition-all duration-200 hover:scale-110 w-fit"
+          className="p-2 bg-black bg-opacity-15 text-white text-sm font-normal rounded-full hover:bg-violet-800 transition-all duration-200 hover:scale-110 w-fit"
         >
           <LinkIcon fontSize="medium" /> Preview
         </Link>
