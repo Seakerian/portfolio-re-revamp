@@ -1,1 +1,1 @@
-Portfolio project, developed in Next.js and Tailwiind CSS.
+Portfolio project, developed in Next.js and styled with Tailwind CSS.
